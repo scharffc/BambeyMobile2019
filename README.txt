@@ -1,1 +1,1 @@
-This repository contains the materiel for the course about mobile app develoment at the University of Bambey.
+This repository contains the materiel for the course on Mobile App Development offered at the University of Bambey in Senegal in Fall 2019.
